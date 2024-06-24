@@ -1,4 +1,4 @@
-# Merge 지옥 시뮬레이션 Merge Hell Simulation
+# Merge 지옥 시뮬레이션
 
 이 연습은 3명이 한 팀이 되어 하나의 깃헙 리포에서 작업합니다.
 우리의 목표는 모든 lorem ipsum ( 더미 텍스트 )를 source.txt의 내용으로 바꾸는 것입니다.
