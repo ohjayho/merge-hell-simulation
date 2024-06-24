@@ -20,7 +20,7 @@
 - push를 먼저 한 사람이 이깁니다!
 - 나머지 멤버들은 `git pull --rebase` 커맨드를 통해 merge 충돌을 해결하고, `git add`와 `git rebase --continue`를 통해 마무리합니다.
 
-### Part 2: 브랜치 간 Merge 지옥
+### 파트 2: 브랜치 간 Merge 지옥
 
 1. 파트 2에서는 directory_2 경로 안에서만 작업합니다.
 1. 시작하기 위해, 로컬 브랜치를 생성합니다. `git checkout -b feature/<your-name>`
